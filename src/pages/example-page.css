@@ -1,0 +1,35 @@
+.example-page-header {
+    height: 100%;
+    background: #c3b8a6;
+    align-content: center;
+    padding-left: 10px;
+}
+
+.example-page-header h1 {
+    color: #4b443a;
+}
+
+.example-page-content {
+    height: 100%;
+    align-content: center;
+    text-align: center;
+
+    background: #ebded4;
+}
+
+.example-page-content div {
+    font-size: 30px;
+    min-height: 30px;
+    color: #a9916e;
+}
+
+.example-page-footer {
+    height: 100%;
+    background: #c3b8a6;
+
+    align-content: center;
+    text-align: end;
+    padding-right: 10px;
+
+    color: #4b443a;
+}
