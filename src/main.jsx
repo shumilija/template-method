@@ -1,9 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import { Page } from "./pages";
 import "./main.css";
 
 ReactDOM.createRoot(document.getElementById('root')).render(
     <React.StrictMode>
-        <Template />
+        <Page />
     </React.StrictMode>,
 )
